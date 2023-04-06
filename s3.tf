@@ -2,7 +2,7 @@ resource "aws_s3_bucket" "buckets" {
   bucket = "tf-bucket1234567"
 
   tags = {
-    Name        = "Mybucket1234"
+    Name        = "Mybucket543216"
     Environment = "Dev"
   }
 }
